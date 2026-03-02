@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @denfisksson.
-- 👀 I’m interested in F1, UX design, heavy metal and fitness.
-- 🌱 I’m currently learning Typescript and Vue.js.
+- 👋 Hi, I’m Daniel.
+- 👀 I’m interested in new technologies, F1 and fatherhood.
+- 🌱 I’m currently learning how to work with AI, React and Python.
 - 💞️ I’m looking to collaborate on anything. I have plenty of projects in mind that I want to develop.
-- 📫 How to reach me - IG: @denfiszk.
+- 📫 How to reach me - TBA
 
 <!---
 denfisksson/denfisksson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
